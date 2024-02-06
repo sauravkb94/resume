@@ -18,7 +18,8 @@
 * 🧠  I'm learning Node.js, Express.js, and Redux
 * ⚡ In my free time I follow tech blogs and academic journals to stay updated
 * 🤝  I'm open to collaborating on interesting projects
-* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/saurav-kumar-453408b8.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-453408b8/)
+* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-453408b8/)
+  
 /td>
 </tr>
 </table>
